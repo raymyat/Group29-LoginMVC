@@ -6,7 +6,9 @@ To run the project <br />
 Create schema at MySQL local workbench using queries in the following file<br/>
 /Group29-LoginMVC/src/main/webapp/DBsql/UserDetails.sql 
 
-Command prompt: mvn jetty:run <br />
+Command prompt: <br />
+mvn jetty:clean <br />
+mvn jetty:run <br />
 
 After running:<br />
 Enter following url in browser <br />
